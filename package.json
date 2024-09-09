@@ -1,0 +1,22 @@
+{
+  "name": "consultas-medicas",
+  "version": "1.0.0",
+  "description": "programa para gerenciar consultas medicas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bianekkarina/consultas-medicas.git"
+  },
+  "author": "Karina Bianek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bianekkarina/consultas-medicas/issues"
+  },
+  "homepage": "https://github.com/bianekkarina/consultas-medicas#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
